@@ -1,4 +1,4 @@
-var a=100;
-var b=200;
-document.write(a+b)
-console.log(a+b)
+var eid=101;
+var ename=Rahul;
+console.log(eid)
+document.write( !)
