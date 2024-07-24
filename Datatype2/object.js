@@ -1,8 +1,7 @@
 let obj={}
 let emp={id:101,
     name:"Rahul",
-    sal:45000
-}
+    sal:45000}
 
 //how to read object properties
 console.log(emp)

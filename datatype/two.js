@@ -27,8 +27,8 @@ console.log(sizes)
 console.log(typeof sizes)
 //==object
 var emp={ eid:222,
-    ename:'rahul'
-    esal=20000
+    ename:'rahul',
+    esal:20000
 }
 console.log(emp)
 console.log(typeof emp)
