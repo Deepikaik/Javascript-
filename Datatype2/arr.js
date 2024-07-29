@@ -11,16 +11,3 @@ console.log(eid[4])
 for(var i=0;i<=3;i++){
     console.log(eid[i])
 }
-
-//executing using for of
-let enames=["rahul","sonia","priya","modi"]
-/*for(var i=0;i<=3;i++){
-    console.log(enames[i])}
-    /*
-
-    /*var i=0
-
-
-    for (ename of enames){
-        console.log(ename)
-    }
