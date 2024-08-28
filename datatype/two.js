@@ -21,10 +21,12 @@ console.log(typeof discount)
 var stock;
 console.log(stock)
 console.log(typeof stock)
+
 //==array
 var sizes=[38,40,42,44]
 console.log(sizes)
 console.log(typeof sizes)
+
 //==object
 var emp={ eid:222,
     ename:'rahul',
